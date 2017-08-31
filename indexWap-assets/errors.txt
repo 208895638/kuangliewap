@@ -1,0 +1,26 @@
+[2017-08-31 17:36:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+ 拷贝": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+1": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+ 拷贝": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+1": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+ 拷贝": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+1": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+ 拷贝": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+1": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+1": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+ 拷贝 2": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+1": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-08-31 17:36:51] layer "+1": Expected Either a default asset specification or a layer asset specification but "+" found.
